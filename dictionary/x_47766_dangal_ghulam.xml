@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Ghulam" max_length="40" name="x_47766_dangal_ghulam" type="collection">
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Rating" max_length="40" name="rating" type="string"/>
+        <element label="Star Cast" max_length="40" name="star_cast" type="string"/>
+    </element>
+</database>
